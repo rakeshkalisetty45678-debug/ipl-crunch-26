@@ -62,7 +62,7 @@ Venue changes everything — ground conditions are an underutilised factor
 
 🚀 How to Run the Notebook
 
-Open Google Colab
+Open Google Colab: https://colab.research.google.com/drive/1qV9vbhTaISrn9F7rqR7qszDA8rt88jF8?usp=sharing
 Upload IPL_Crunch_26_Analysis.ipynb
 Get a Kaggle API key from kaggle.com → Settings → Create Legacy API Key
 Run Cell 1 → upload kaggle.json when prompted
